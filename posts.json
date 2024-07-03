@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "title": "Updated Title",
+      "views": 300,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    },
+    {
+      "title": "Cool list of JS Libraries",
+      "views": 200,
+      "id": "5oI5RF0"
+    }
+  ]
+}
